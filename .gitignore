@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+env/
+.env
+
+# OS Files
+.DS_Store
